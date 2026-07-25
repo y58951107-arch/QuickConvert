@@ -75,6 +75,9 @@ If you need extra measurement units or a custom version for your workflow, feel 
 - Free bug fixes for reported issues
 
 ---
+## Contact
+Interested in this project or a custom version?
+Email: y58951107@gmail.com
 
 ## 👨‍💻 Author
 
