@@ -1,8 +1,6 @@
-# QuickConvert
-A lightweight Windows unit converter built with python and tkinter and super conventional instead of just searching up unit conversions on google
 # 🚀 QuickConvert
 
-QuickConvert is a lightweight and easy-to-use Windows desktop application built with **Python** and **Tkinter**. It allows users to quickly convert between different units through a clean graphical interface.
+QuickConvert is a lightweight and easy-to-use Windows desktop application built with **Python** and **Tkinter**. It allows users to quickly convert between different units through a clean graphical interface and super conventional instead of just searching up unit conversions on google
 
 ---
 
@@ -43,8 +41,19 @@ AREA)
 
 ## 📸 Screenshots
 
-(Screenshots will be added soon.)
+## 📸 Screenshots
 
+### Main Window
+
+![Main Window](screenshots/ScreenShot1.png)
+
+### Example Conversion
+
+![Example](screenshots/ScreenShot3.png)
+
+### Weight Conversion
+
+![Weight](screenshots/ScreenShot2.png)
 ---
 
 ## 📦 Installation
