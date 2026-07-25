@@ -66,6 +66,13 @@ No Python installation is required.
 - Custom unit additions: +$5 per requested unit
 
 If you need extra measurement units or a custom version for your workflow, feel free to contact me.
+---
+## 📦 What's Included
+
+- Standalone Windows executable (.exe)
+- No Python installation required
+- Lifetime use after purchase
+- Free bug fixes for reported issues
 
 ---
 
