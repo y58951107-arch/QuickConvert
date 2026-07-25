@@ -41,19 +41,17 @@ AREA)
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Main Window
 
-![Main Window](screenshots/ScreenShot1.png)
+![Main Window](ScreenShot1.png)
 
 ### Example Conversion
 
-![Example](screenshots/ScreenShot3.png)
+![Example](ScreenShot3.png)
 
 ### Weight Conversion
 
-![Weight](screenshots/ScreenShot2.png)
+![Weight](ScreenShot2.png)
 ---
 
 ## 📦 Installation
